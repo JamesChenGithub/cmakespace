@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/src/xcstring/xc_string.cpp
+xc_string.h
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/src/xcstring/xc_string.h
+
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/src/xcstring/xc_string.h
+iostream
+-
+cstring
+-
+cctype
+-
+

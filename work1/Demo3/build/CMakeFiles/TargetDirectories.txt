@@ -1,0 +1,6 @@
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/CMakeFiles/rebuild_cache.dir
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/CMakeFiles/edit_cache.dir
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/CMakeFiles/Demo3.dir
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/xcstring/CMakeFiles/rebuild_cache.dir
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/xcstring/CMakeFiles/edit_cache.dir
+/Users/alexichen/UnixSpace/cmakespace/work1/Demo3/build/xcstring/CMakeFiles/XCString.dir
